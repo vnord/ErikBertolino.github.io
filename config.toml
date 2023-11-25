@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "vnord"
-author = "vnord"
+title = "E"
+author = "E"
 #copyright = "2020-2021"
-description = "master of many vnords"
+description = "master of many E"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
