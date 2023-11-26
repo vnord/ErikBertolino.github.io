@@ -1,7 +1,7 @@
-baseURL = "https://bertoli.no/"
+baseURL = "https://vnord.net/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "e"
+title = "vnord"
 theme = "hugo-theme-console"
 summarylength = 10
 enableEmoji = true
@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "E"
-author = "E"
+title = "vnord"
+author = "vnord"
 #copyright = "2020-2021"
-description = ""
+description = "master of many vnords"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -61,12 +61,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/ErikBertolino"
+url = "https://github.com/vnord"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:erik.bertolino@gmail.com"
+url = "mailto:ari@vnord.net"
 
 ### console theme
 
